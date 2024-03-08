@@ -1,4 +1,4 @@
-# ML Journey - Machine Learning Fundamentals' Series
+# ML Journal - Machine Learning Fundamentals' Series
 Throughout this series of repositories, we'll explore various models, documenting the code and thought process behind each one.  The goal is to create a journal-like experience for both myself and anyone following along. By sharing the journey, we can:
 
 - Break down complex concepts: We'll approach each model step-by-step, making the learning process manageable.
@@ -8,7 +8,7 @@ Throughout this series of repositories, we'll explore various models, documentin
 
 
 ## Ep-1 - Linear Regression
-This repository is the first in the 'ML Journey' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
+This repository is the first in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
 
 
 ## Data
