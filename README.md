@@ -27,6 +27,7 @@ Dependent Variables: 1
 ### Code
 The Python code file (linear_regression.py) demonstrates how to implement linear regression using a popular machine learning libraries. You will find directional comments in the code specifying purpose of each block of code in 1-2 lines.
 
+
 ### Requirements
 Following is a list of the programs and libraries, with the versions, used in the code:
 
@@ -35,6 +36,7 @@ Following is a list of the programs and libraries, with the versions, used in th
   - numpy==1.26.3
   - matplotlib==3.8.3
   - scikit-learn==1.4.1
+
 
 ### Getting Started
 Clone this repository.
