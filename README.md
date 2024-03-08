@@ -16,6 +16,7 @@ Dataset link: https://www.kaggle.com/datasets/yasserh/student-marks-dataset
 Independent Variables: 2
 - _number_courses_
 - _time_study_
+
 Dependent Variables: 1
 - _Marks_
 
