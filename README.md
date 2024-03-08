@@ -7,7 +7,7 @@ Throughout this series of repositories, we'll explore various models, documentin
 - We believe this approach can be particularly helpful for beginners struggling to find a starting point in the vast world of machine learning.
 
 
-## Ep1 - Linear Regression
+## Ep-1 - Linear Regression
 This repository is the first in the 'ML Journey' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
 
 
