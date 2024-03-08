@@ -14,6 +14,7 @@ This repository is the first in the 'ML Journey' series aimed at revisiting fund
 ### Data
 This repository includes the dataset (student_marks.csv) suitable for linear regression.
 The dataset contains 3 variables and 100 instances, uploaded by [M Yasser H](https://www.kaggle.com/yasserh).
+
 Dataset link: https://www.kaggle.com/datasets/yasserh/student-marks-dataset
 
 Independent Variables: 2
