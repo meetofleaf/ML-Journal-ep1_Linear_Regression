@@ -39,12 +39,12 @@ Following is a list of the programs and libraries, with the versions, used in th
 
 
 ### Getting Started
-Clone this repository.
-Ensure you have all the required programs and libraries installed.
-Simply run the Python script (e.g., python linear_regression.py).
-Follow the comments and code execution to understand the process.
-I encourage you to experiment with the code, modify the data, and play around with the model!
-Lastly, feel free to share any suggestions, corrections, ideas or questions you might have.
+- Clone this repository.
+- Ensure you have all the required programs and libraries installed.
+- Simply run the Python script (e.g., python linear_regression.py).
+- Follow the comments and code execution to understand the process.
+- I encourage you to experiment with the code, modify the data, and play around with the model!
+- Lastly, feel free to share any suggestions, corrections, ideas or questions you might have.
 
 Also feel free to reach out to me for any discussion or collaboration. I'd be glad to productively interact with you.
 
