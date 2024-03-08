@@ -41,7 +41,7 @@ Following is a list of the programs and libraries, with the versions, used in th
 
 ## Getting Started
 - Clone this repository.
-- Ensure you have all the required programs and libraries installed.
+- Ensure you have all the required programs and libraries installed or install using the requirements file.
 - Simply run the Python script (e.g., python linear_regression.py).
 - Follow the comments and code execution to understand the process.
 - I encourage you to experiment with the code, modify the data, and play around with the model!
@@ -50,3 +50,12 @@ Following is a list of the programs and libraries, with the versions, used in th
 Also feel free to reach out to me for any discussion or collaboration. I'd be glad to productively interact with you.
 
 This is just the first step in our machine learning journey. Stay tuned for future repositories exploring other fundamental models!
+
+## Reference & Guidance Links:
+- Python: https://www.python.org/
+  - Scikit-learn: https://scikit-learn.org/stable/install.html
+  - Pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
+  - NumPy: https://numpy.org/install/
+  - Matplotlib: https://matplotlib.org/stable/users/installing/index.html
+- Pip (Python Package Manager): https://pip.pypa.io/en/stable/user_guide/
+- Git: https://git-scm.com/
