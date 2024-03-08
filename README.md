@@ -6,13 +6,16 @@ Throughout this series of repositories, we'll explore various models, documentin
 - Build a foundation: Each repository will build upon the knowledge from the previous one, creating a solid foundation in machine learning basics.
 - We believe this approach can be particularly helpful for beginners struggling to find a starting point in the vast world of machine learning.
 
+
 ## Linear Regression - A Beginner's Guide
 This repository is the first in the 'ML Journey' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
+
 
 ### Data
 This repository includes the dataset (student_marks.csv) suitable for linear regression.
 The dataset contains 3 variables and 100 instances, uploaded by [M Yasser H](https://www.kaggle.com/yasserh).
 Dataset link: https://www.kaggle.com/datasets/yasserh/student-marks-dataset
+
 Independent Variables: 2
 - _number_courses_
 - _time_study_
@@ -20,14 +23,27 @@ Independent Variables: 2
 Dependent Variables: 1
 - _Marks_
 
-### Code
-The Python code file (linear_regression.py) demonstrates how to implement linear regression using a popular machine learning library (e.g., scikit-learn). The code will be well-commented, explaining each step involved in training and using the model.
 
-Getting Started
+### Code
+The Python code file (linear_regression.py) demonstrates how to implement linear regression using a popular machine learning libraries. You will find directional comments in the code specifying purpose of each block of code in 1-2 lines.
+
+### Requirements
+Following is a list of the programs and libraries, with the versions, used in the code:
+
+- Python==3.12.1
+  - pandas==2.2.0
+  - numpy==1.26.3
+  - matplotlib==3.8.3
+  - scikit-learn==1.4.1
+
+### Getting Started
 Clone this repository.
-Ensure you have the necessary Python libraries installed (refer to the code comments for details).
-Run the Python script (e.g., python linear_regression.py).
-Follow the comments and code execution to understand the linear regression process.
-We encourage you to experiment with the code, modify the data, and play around with the model!
+Ensure you have all the required programs and libraries installed.
+Simply run the Python script (e.g., python linear_regression.py).
+Follow the comments and code execution to understand the process.
+I encourage you to experiment with the code, modify the data, and play around with the model!
+Lastly, feel free to share any suggestions, corrections, ideas or questions you might have.
+
+Also feel free to reach out to me for any discussion or collaboration. I'd be glad to productively interact with you.
 
 This is just the first step in our machine learning journey. Stay tuned for future repositories exploring other fundamental models!
