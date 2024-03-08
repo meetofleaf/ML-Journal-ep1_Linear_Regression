@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
 
-dataset = pd.read_csv('M:\STUDY\Datasets\Kaggle\student_marks.csv')
+dataset = pd.read_csv('<file_path>')
 
 
 # Calculating study time per course for each student
