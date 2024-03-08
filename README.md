@@ -11,7 +11,7 @@ Throughout this series of repositories, we'll explore various models, documentin
 This repository is the first in the 'ML Journey' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
 
 
-### Data
+## Data
 This repository includes the dataset (student_marks.csv) suitable for linear regression.
 The dataset contains 3 variables and 100 instances, uploaded by [M Yasser H](https://www.kaggle.com/yasserh).
 
@@ -25,11 +25,11 @@ Dependent Variables: 1
 - _Marks_
 
 
-### Code
+## Code
 The Python code file (linear_regression.py) demonstrates how to implement linear regression using a popular machine learning libraries. You will find directional comments in the code specifying purpose of each block of code in 1-2 lines.
 
 
-### Requirements
+## Requirements
 Following is a list of the programs and libraries, with the versions, used in the code:
 
 - Python==3.12.1
@@ -39,7 +39,7 @@ Following is a list of the programs and libraries, with the versions, used in th
   - scikit-learn==1.4.1
 
 
-### Getting Started
+## Getting Started
 - Clone this repository.
 - Ensure you have all the required programs and libraries installed.
 - Simply run the Python script (e.g., python linear_regression.py).
