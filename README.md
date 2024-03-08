@@ -51,7 +51,7 @@ Also feel free to reach out to me for any discussion or collaboration. I'd be gl
 
 This is just the first step in our machine learning journey. Stay tuned for future repositories exploring other fundamental models!
 
-## Reference & Guidance Links:
+## References & Guidance Links:
 - Python: https://www.python.org/
   - Scikit-learn: https://scikit-learn.org/stable/install.html
   - Pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
