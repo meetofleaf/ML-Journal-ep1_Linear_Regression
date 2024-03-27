@@ -1,5 +1,5 @@
 # ML Journal - Machine Learning Fundamentals' Series
-Throughout this series of repositories, we'll explore various models, documenting the code and thought process behind each one.  The goal is to create a journal-like experience for both myself and anyone following along. By sharing the journey, we can:
+In this series of repositories, we'll explore various models, documenting the code and thought process behind each one.  The goal is to create a journal-like experience for both myself and anyone following along. By sharing the journey, we can:
 
 - Break down complex concepts: We'll approach each model step-by-step, making the learning process manageable.
 - Learn from mistakes: Documenting the process allows us to identify and learn from any errors along the way.
@@ -13,20 +13,20 @@ This repository is the first in the 'ML Journal' series aimed at revisiting fund
 
 ## Data
 This repository includes the dataset (student_marks.csv) suitable for linear regression.
-The dataset contains 3 variables and 100 instances, uploaded by [M Yasser H](https://www.kaggle.com/yasserh).
+The dataset contains 3 variables and 100 instances and was uploaded by [M Yasser H](https://www.kaggle.com/yasserh) on [Kaggle](https://www.kaggle.com/).
 
 Dataset link: https://www.kaggle.com/datasets/yasserh/student-marks-dataset
 
-Independent Variables: 2
-- _number_courses_
-- _time_study_
-
-Dependent Variables: 1
-- _Marks_
+Data dictionary:
+| Variable Name  | Data type    | Variable Type | Sample     |
+|:---------------|:-------------|:--------------|-----------:|
+|number_courses  |Discrete      |Independent    |_3_         |
+|time_study      |Continuous    |Independent    |_4.508_     |
+|Profit          |Continuous    |Dependent      |_19.202_    |
 
 
 ## Code
-The Python code file (linear_regression.py) demonstrates how to implement linear regression using a popular machine learning libraries. You will find directional comments in the code specifying purpose of each block of code in 1-2 lines.
+The Python code file (linear_regression.py) demonstrates how to implement linear regression using a popular machine learning library scikit-learn. You will find guiding comments in the code specifying purpose of each block of code in 1-2 lines.
 
 
 ## Requirements
@@ -42,7 +42,7 @@ Following is a list of the programs and libraries, with the versions, used in th
 ## Getting Started
 - Clone this repository.
 - Ensure you have all the required programs and libraries installed or install using the requirements file.
-- Simply run the Python script (e.g., python linear_regression.py).
+- Simply run the Python script either from your OS' command prompt or from your choice of IDE.
 - Follow the comments and code execution to understand the process.
 - I encourage you to experiment with the code, modify the data, and play around with the model!
 - Lastly, feel free to share any suggestions, corrections, ideas or questions you might have.
@@ -50,6 +50,7 @@ Following is a list of the programs and libraries, with the versions, used in th
 Also feel free to reach out to me for any discussion or collaboration. I'd be glad to productively interact with you.
 
 This is just the first step in our machine learning journey. Stay tuned for future repositories exploring other fundamental models!
+
 
 ## References & Guidance Links:
 - Python: https://www.python.org/
