@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 ![Banner](.banner.png)
 # ML Journal - Machine Learning Fundamentals' Series
-=======
-# ML Journal - Machine Learning Fundamentals Series
->>>>>>> dc9e80394b8e8fffe480b73dfcdc803db9019dbd
 In this series of repositories, we'll explore various models, documenting the code and thought process behind each one.  The goal is to create a journal-like experience for both myself and anyone following along. By sharing the journey, we can:
 
 - Break down complex concepts: We'll approach each model step-by-step, making the learning process manageable.
