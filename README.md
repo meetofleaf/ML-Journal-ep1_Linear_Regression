@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ![Banner](.banner.png)
 # ML Journal - Machine Learning Fundamentals' Series
+=======
+# ML Journal - Machine Learning Fundamentals Series
+>>>>>>> dc9e80394b8e8fffe480b73dfcdc803db9019dbd
 In this series of repositories, we'll explore various models, documenting the code and thought process behind each one.  The goal is to create a journal-like experience for both myself and anyone following along. By sharing the journey, we can:
 
 - Break down complex concepts: We'll approach each model step-by-step, making the learning process manageable.
@@ -8,7 +12,7 @@ In this series of repositories, we'll explore various models, documenting the co
 - We believe this approach can be particularly helpful for beginners struggling to find a starting point in the vast world of machine learning.
 
 
-## Ep-1 - Linear Regression
+# Ep-1 - Linear Regression
 This repository is the first in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
 
 
