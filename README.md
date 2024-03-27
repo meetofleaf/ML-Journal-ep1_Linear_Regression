@@ -18,7 +18,7 @@ The dataset contains 3 variables and 100 instances and was uploaded by [M Yasser
 Dataset link: https://www.kaggle.com/datasets/yasserh/student-marks-dataset
 
 **Data dictionary**:
-|Variable Name  |Data type |Variable type |Variable Role |Sample   |
+|Variable Name  |Data type |Variable type |Variable role |Sample   |
 |:--------------|:---------|:-------------|:-------------|--------:|
 |number_courses |int       |Discrete      |Independent   |_3_      |
 |time_study     |float     |Continuous    |Independent   |_4.508_  |
