@@ -1,4 +1,4 @@
-![Banner](.banner.png)
+![Banner](.media/banner.png)
 # ML Journal - Machine Learning Fundamentals Series
 In this series of repositories, we'll explore various models, documenting the code and thought process behind each one.  The goal is to create a journal-like experience for both myself and anyone following along. By sharing the journey, we can:
 
@@ -11,6 +11,7 @@ In this series of repositories, we'll explore various models, documenting the co
 # Ep-1 - Linear Regression
 This repository is the first in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
 
+#### [Concept explanation]()
 
 ## Data
 This repository includes the dataset (student_marks.csv) suitable for linear regression.
@@ -38,7 +39,6 @@ Following is a list of the programs and libraries, with the versions, used in th
   - `numpy==1.26.3`
   - `matplotlib==3.8.3`
   - `scikit-learn==1.4.1`
-
 
 ## Getting Started
 - Clone this repository.

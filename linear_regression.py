@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
 # Import Dataset
-dataset = pd.read_csv('<file_path>')    # Replace <file_path> with the file path of the dataset within the quotes.
+dataset = pd.read_csv('student_marks.csv')    # Feel free to use your own data by replacing filename in quotes with your data filename.
 
 
 # Calculating study time per course for each student. This can also be used as independent variable.
@@ -41,16 +41,16 @@ y_pred = regressor.predict(X_test)
 # Visualizing Training set results
 plt.scatter(X_train, y_train, color = 'red')
 plt.plot(X_train, regressor.predict(X_train), color = 'blue')
-plt.title('Marks vs Study time per Course')
-plt.xlabel('Study time per Course')
+plt.title('Marks vs Study time')
+plt.xlabel('Study time')
 plt.ylabel('Marks')
 plt.show()
 
 # Visualizing Test set results
 plt.scatter(X_test, y_test, color = 'red')
 plt.plot(X_train, regressor.predict(X_train), color = 'blue')
-plt.title('Marks vs Study time per Course')
-plt.xlabel('Study time per Course')
+plt.title('Marks vs Study time ')
+plt.xlabel('Study time')
 plt.ylabel('Marks')
 plt.show()
 
