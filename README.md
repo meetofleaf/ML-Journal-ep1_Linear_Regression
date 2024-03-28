@@ -11,7 +11,7 @@ In this series of repositories, we'll explore various models, documenting the co
 # Ep-1 - Linear Regression
 This repository is the first in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
 
-#### [Concept explanation]()
+#### [Concept explanation](https://github.com/meetofleaf/ML-Journal-ep1_Linear_Regression/blob/main/linear_regression_explanation.md)
 
 ## Data
 This repository includes the dataset (student_marks.csv) suitable for linear regression.
