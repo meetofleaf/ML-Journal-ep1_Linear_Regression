@@ -1,3 +1,4 @@
+![Banner](.media/banner.png)
 # What is Linear Regression?
 
 Let's consider the student marks data that we used in our linear regression demo. Simple linear regression helps you uncover the relationship between these variables using a straight line. This line, called the regression line, tries to best predict the dependent variable (marks) based on the independent variable (study time).
