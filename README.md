@@ -9,7 +9,7 @@ In this series of repositories, we'll explore various models, documenting the co
 
 
 # Ep 01 - Linear Regression
-This repository is the first in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
+This is the first addition in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Linear Regression, a widely used technique for modeling linear relationships between features and a target variable.
 
 #### [Concept explanation](https://github.com/meetofleaf/ML-Journal-ep1_Linear_Regression/blob/main/linear_regression_explanation.md)
 
@@ -40,9 +40,10 @@ Following is a list of the programs and libraries, with the versions, used in th
   - `matplotlib==3.8.3`
   - `scikit-learn==1.4.1`
 
+
 ## Getting Started
 - Clone this repository.
-- Ensure you have all the required programs and libraries installed or install using the requirements file.
+- Make sure you have the required programs and libraries installed. You can install them using the requirements file with:
   - `pip install -r requirements.txt`
 - Simply run the Python script either from your OS' command prompt or from your choice of IDE.
   - `py linear_regression.py`
