@@ -1,7 +1,20 @@
 ![Banner](.media/banner.png)
 # What is Linear Regression?
+Linear regression helps establish a mathematical relationship between a set of variables using a straight line called the regression line. The equation of the regression line tries to best predict a ‘dependent’ variable based on an ‘independent’ variable.
 
-Let's consider the student marks data that we used in our linear regression demo. Simple linear regression helps you uncover the relationship between these variables using a straight line. This line, called the regression line, tries to best predict the dependent variable (marks) based on the independent variable (study time).
+Note, linear regression can be extended to incorporate more than one independent variable. This would be called multiple linear regression. The extension enables the model to consider the collective influence of various factors on the dependent variable, offering a more comprehensive analysis.
+
+Moreover, by introducing polynomial terms or other transformations of the independent variables, linear regression can also accommodate non-linear relationships, thereby enhancing its flexibility in capturing complex patterns.
+
+- Watch this 2 minute video for more clarity → https://youtu.be/CtsRRUddV2s
+
+However, for the purpose of this episode, our scope will be limited to a ‘simple linear regression’ consisting of one dependent variable and one independent variable.
+
+### Case in point
+
+Consider the available data-set of ‘time spent by a student studying’ paired with ‘marks obtained’.
+
+This will be used in our linear regression demo to predict the marks obtained (dependent variable) by a student based on the time spent studying (independent variable).
 
 ## Key players
 - **Dependent Variable (Y):** The variable you're trying to predict (exam scores). Plotted on the Y-axis in our graph (vertical).
