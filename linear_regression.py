@@ -69,5 +69,3 @@ plt.xlabel('Study time')
 plt.ylabel('Marks')
 plt.show()
 
-print(X_train)
-print(regressor.predict(X_train))
